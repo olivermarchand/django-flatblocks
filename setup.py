@@ -7,7 +7,7 @@ setup(
     description='django-flatblocks acts like django.contrib.flatpages but '
                 'for parts of a page; like an editable help box you want '
                 'show alongside the main content.',
-    long_description=open('README.rst').read(),
+    long_description='--not valid in Python 3.2--',
     keywords='django apps',
     license='New BSD License',
     author='Horst Gutmann, Curtis Maloney',
